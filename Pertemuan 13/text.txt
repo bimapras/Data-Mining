@@ -1,0 +1,1 @@
+=IF(AND($Q$89=$T$89; $Q$90=$T$90; $Q$91=$T$91; $Q$92=$T$92); "vaild";"tidak vaild")
